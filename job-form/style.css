@@ -1,0 +1,45 @@
+body{
+	margin: 5px 5% 5px ;
+}
+.bot-margin{
+	margin-bottom: 10px;
+}
+.labels{
+	float: left;
+	width: 30%;
+}
+.inputs{
+	width: 65%;
+	float: right;
+}
+.left-labels{
+	margin-bottom: 15px;
+	display:inline-block;
+}
+.max{
+	border: 1px solid darkgrey;
+	padding: 2px 2px 2px 2px;
+	width: 90%;
+}
+.half{
+	width: 45%;
+}
+#hobbies{
+	width: 100%;
+}
+#submit-button{
+	background-color: maroon; 
+	color: white; 
+	width: 10%;
+	margin-left: 40%;
+	font-size: 120%;
+	height: 2em;
+}
+.centered-label{
+	text-align: center; display: inline-block;
+}
+#submit{
+	width: 100%;
+	float: left;
+	display: block;
+}
