@@ -1,0 +1,9 @@
+nav{
+	text-align: center;
+	width: 100%;
+}
+ul,li{
+	list-style: none;
+	display: inline-block;
+	text-align: center;
+}
